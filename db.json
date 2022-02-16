@@ -1,0 +1,122 @@
+{
+    "product"       : [
+        {
+            "id"            : 1,
+            "pname"          : "Adipiscing porttitor habit",
+            "reprice"        : 150,
+            "seprice"        : 130,
+            "pphoto"         : "https://woodmart.xtemos.com/wp-content/uploads/2018/04/white-electronics-product-4-430x425.jpg.webp",
+            "decription"      : "Vestibulum scelerisque in ullamcorper taciti dignissim gravida vivamus senectus"
+        },
+        {
+            "id"            : 2,
+            "pname"          : "Condimentum donec turpis",
+            "reprice"        : 140,
+            "seprice"        : 120,
+            "pphoto"         : "https://woodmart.xtemos.com/wp-content/uploads/2018/04/white-electronics-product-2-430x425.jpg.webp",
+            "decription"      : "Vestibulum scelerisque in ullamcorper taciti dignissim gravida vivamus senectus"
+        },
+        {
+            "id"              : 3,
+            "pname"          : "Convallis mattis parturient",
+            "reprice"        : 199,
+            "seprice"        : 189,
+            "pphoto"         : "https://woodmart.xtemos.com/wp-content/uploads/2018/04/white-electronics-product-1-430x425.jpg.webp",
+            "decription"      : "Vestibulum scelerisque in ullamcorper taciti dignissim gravida vivamus senectus"
+        },
+        {
+            "id"            : 4,
+            "pname"          : "Lacus laoreet phasellus",
+            "reprice"        : 279,
+            "seprice"        : 269,
+            "pphoto"         : "https://woodmart.xtemos.com/wp-content/uploads/2018/04/white-electronics-product-8-430x425.jpg.webp",
+            "decription"    : "Bibendum vestibulum condimentum adipiscing id mus montes dignissim turpis"
+        },
+        {
+            "id"            : 5,
+            "pname"          : "Libero adipiscing amet",
+            "reprice"        : 349,
+            "seprice"        : 339,
+            "pphoto"         : "https://woodmart.xtemos.com/wp-content/uploads/2018/04/white-electronics-product-accessories-16-430x425.jpg.webp",
+            "decription"      : "Facilisi parturient a suspendisse dolor pharetra in euismod eu parturient mi"
+        },
+        {
+            "id"            : 6,
+            "pname"          : "Smart watches wood edition",
+            "reprice"        : 349,
+            "seprice"        : 339,
+            "pphoto"         : "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-accessories-8-1-430x491.jpg.webp",
+            "decription"      : "Facilisi parturient a suspendisse dolor pharetra in euismod "
+        }
+    ],
+
+    "brands"      : [
+
+        {
+            "id"          : 1,
+            "item"          : "sumsamg",
+            "bphoto"       : "https://dalalplus.com/public/uploads/all/1FB6UZfFPf8n8eclNxUGooeOxjaN3jM7itB6ViI4.jpg"
+        },
+        {
+            "id"          : 2,
+            "item"          : "Realme",
+            "bphoto"       : "https://dalalplus.com/public/uploads/all/GBSJ25aX7cay2EveAwkx2Z6v1SBTQRi37UT0MWWS.jpg"
+        },
+        {
+            "id"          : 3,
+            "item"          : "iPhone",
+            "bphoto"       : "https://dalalplus.com/public/uploads/all/O0d4bOHqSAy7TpdNn3honQuJYxZvTrorW1d374OK.jpg"
+        },
+        {
+            "id"          : 4,
+            "item"          : "Xiaomi",
+            "bphoto"       : "https://dalalplus.com/public/uploads/all/pxiWAYz4H1FZSXmaXJYF4JPX1qeFWT5qugsekm00.jpg"
+        },
+        {
+            "id"          : 5,
+            "item"          : "Oppo",
+            "bphoto"       : "https://dalalplus.com/public/uploads/all/sdZ10kx3I1t0jpaqLZJxFJw3pJ8hhICaJoBdYiJF.jpg"
+        },
+        {
+            "id"          : 6,
+            "item"          : "Vivo",
+            "bphoto"       : "https://dalalplus.com/public/uploads/all/KGOi1MtE1xKeM9awdtm3zEvRZgPLigP1mnQulyLA.jpg"
+        }
+
+    ],
+
+
+    "catagory"      : [
+
+        {
+            "id"          : 1,
+            "cname"        :"Food",
+            "cphoto"       : "https://chaldn.com/_mpimage/fruits-vegetables?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D23769&q=low&v=1&m=400&webp=1"
+        },
+        {
+            "id"          : 2,
+            "cname"        :"Health",
+            "cphoto"       :"https://chaldn.com/_mpimage/first-aid?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D30221&q=low&v=1&m=400&webp=1"
+        },
+        {
+            "id"          : 3,
+            "cname"        :"Smrat Phone",
+            "cphoto"       :"https://dalalplus.com/public/uploads/all/vjTjfsCcfS5w0hKWH6D2CMZt03IG0dVAoQnOySZL.jpg"
+        },
+        {
+            "id"          : 4,
+            "cname"        :"Fish",
+            "cphoto"       :"https://chaldn.com/_mpimage/frozen-fish?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D81235&q=low&v=1&m=400&webp=1"
+        },
+        {
+            "id"          : 5,
+            "cname"        :"Automobile",
+            "cphoto"       :"https://dalalplus.com/public/uploads/all/2eir7Yw0jsQzhggQAPoCpNAwRKbah2M1dj2Gbd13.jpg"
+        },
+        {
+            "id"          : 6,
+            "cname"        :"Laptop",
+            "cphoto"       :"https://dalalplus.com/public/uploads/all/qgWBapSXhO9JQSqG5kp8lzO2R9l4PuxlqKkE45JV.jpg"
+        }
+    ]
+}
